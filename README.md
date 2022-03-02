@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="./wrench.jfif" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="./wallpaper.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px">, I'm Sc4rekr0w</h1>
 <h3 align="center">Ethical Hacker | Penetration Tester | CTF Player | <em>Red Team</em> 🔴</h3>
