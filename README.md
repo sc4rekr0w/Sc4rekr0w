@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px">, I'm Sc4rekr0w</h1>
 <h3 align="center">Ethical Hacker | Penetration Tester | CTF Player | <em>Red Team</em> 🔴</h3>
 <p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=sc4rekr0w/Sc4rekr0w">
-<a href="https://sc4rekr0w.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-sc4rekr0w.github.io-blue?style=flat&logo=google-chrome"></a>
-<a href="mailto:matias_mg@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-matias_mg@hotmail.com-blue?style=flat&logo=gmail"></a>
+<img src="https://visitor-badge.glitch.me/badge?page_id=sc4rekr0w/Sc4rekr0w&right_color=darkgreen">
+<a href="https://sc4rekr0w.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-sc4rekr0w.github.io-darkgreen?style=flat"></a>
+<a href="mailto:matias_mg@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-matias_mg@hotmail.com-darkgreen?style=flat"></a>
 </p>
 
 ## :wolf: About Me
@@ -21,7 +21,7 @@
 ## HackTheBox Rank
 
 <p align="left">
-	<a href="http://www.hackthebox.eu/badge/image/345358" target="_blank">
+	<a href="https://app.hackthebox.com/profile/345358" target="_blank">
         <img src="http://www.hackthebox.eu/badge/image/345358" alt="Hack The Box">
     </a>
 </p>
@@ -58,20 +58,19 @@
 
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sc4rekr0w&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sc4rekr0w&theme=merko&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## :bar_chart: My Github Stats
 
 <br/>
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="sc4rekr0w's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sc4rekr0w&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="sc4rekr0w's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sc4rekr0w&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="sc4rekr0w's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sc4rekr0w&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=0D1117" /></a>
 <br/>
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="sc4rekr0w's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sc4rekr0w&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="sc4rekr0w's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sc4rekr0w&bg_color=0D1117&color=85cc00&line=02dc5a&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
