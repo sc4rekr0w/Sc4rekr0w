@@ -6,7 +6,7 @@
 <a href="mailto:matias_mg@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-matias_mg@hotmail.com-darkgreen?style=flat"></a>
 </p>
 
-## :wolf: About Me
+## ☣️ About Me
 
 - :seedling: I'm currently learning **Ethical Hacking**
 
@@ -16,13 +16,15 @@
 
 - 📫 How to reach me **matias_mg@hotmail.com**
 
-- :video_game: Fun fact **I play games very much**
+- 🕹️ **I like to play video games**
+
+- 🗺️ **I like to travel and discover new places**
 
 ## HackTheBox Rank
 
 <p align="left">
 	<a href="https://app.hackthebox.com/profile/345358" target="_blank">
-        <img src="http://www.hackthebox.eu/badge/image/345358" alt="Hack The Box">
+        <img src="https://www.hackthebox.eu/badge/image/345358" alt="Hack The Box">
     </a>
 </p>
 
